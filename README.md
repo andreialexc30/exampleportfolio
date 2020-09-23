@@ -1,1 +1,2 @@
 Hello! Basically this is a mini project I made in the course of two days as I surfed YouTube for ideas. It consists of plain HTML, CSS and (very little) JavaScript. It's an example of a web dev's portofolio and while doing this I've strengthened my previous knowledge of HTML & CSS and at the same time learned more about custom properties and responsive design.
+Edit: Updated placeholder image in the about me section. Added live version available at: https://andreialexc30.github.io/exampleportfolio/
